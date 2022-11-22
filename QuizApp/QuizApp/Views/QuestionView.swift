@@ -30,7 +30,7 @@ struct QuestionView: View {
     
     var choicesArray: [String] = ["Java is a programming language", "Java is a browser", "Java is an operating system", "Java is a hardware inside of PC", "lnprint('Hello World')", "System.out.println()", "print('Hello World')", "cout('Hello World')", "Flutter", "React Native", "Swift", "React.js"]
     
-    var correctAnswers: [String] = ["Java 2", "C++ 1", "C 3"]
+   
     
     
     
