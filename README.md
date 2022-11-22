@@ -17,7 +17,7 @@ ContentView contains a Welcome text and a NavigationLink as a SF Symbol to chang
 
 # Guide2View & StartQuizView
 
-Guide2View uses TabView to show guides as tabs, there are 4 tabs within, three of them gives a guideline for user while the last one navigates to StartQuizView and it takes an input from user using TextField and navigates to QuestionView.
+Guide2View uses TabView to show guides as tabs, there are 4 tabs, three of them gives a guideline for user while the last one navigates to StartQuizView and it takes an input from user using TextField and navigates to QuestionView.
 
 
 https://user-images.githubusercontent.com/73110402/203432681-c15d24b8-6a1f-4956-b82c-a741d5398d4c.mov
@@ -27,14 +27,14 @@ https://user-images.githubusercontent.com/73110402/203432681-c15d24b8-6a1f-4956-
 
 QuestionView displays three questions and validates the points of player when answering a question. When user clicks an answer choice, it automatically changes the question and answer choices and validates if user selected correct answer. At the end, it navigates to FinishedView and it shows user it's final score.
 
-P.S: Normally, input taken from StartView is shown too, but the record was made from QuestionView so it doesn't show any username, you can see the original one at the end of video.
+P.S: Normally, input taken from StartView is shown too, but the record was made from QuestionView so it doesn't show any username, you can see the original one at full implementation video.
 
 
 https://user-images.githubusercontent.com/73110402/203433424-06fd6659-964a-41cf-9623-970532b9f4d6.mov
 
 
 
-# For full implementation working together:
+# Full implementation:
 
 
 
